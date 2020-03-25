@@ -1,6 +1,5 @@
-# flutter_food_delivery_ui
-
-A new Flutter project.
+# Jotali
+Sénégalese Food Delivery App UI
 
 ## Getting Started
 
