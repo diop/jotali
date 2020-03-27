@@ -1,5 +1,5 @@
 # Jotali
-Sénégalese Food Delivery App UI
+Food Delivery App UI Concept
 
 ## Getting Started
 
